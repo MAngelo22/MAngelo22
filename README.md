@@ -2,11 +2,11 @@
 
 🏍️👨‍💻 **About Me:**
 
-**I am a Full Stack Web Developer, currently finishing my final project (TFG) for my second higher vocational degree in DAW (Web Application Development). I also hold other vocational degrees, such as DAM (Multiplatform Applications Development) and SMR (Systems and Networks Administration).
+I am a Full Stack Web Developer, currently finishing my final project (TFG) for my second higher vocational degree in DAW (Web Application Development). I also hold other vocational degrees, such as DAM (Multiplatform Applications Development) and SMR (Systems and Networks Administration).
 
 My goal is to officially improve my language skills in the near future.
 
-I invite you to explore my projects and portfolio 👌🏽**
+I invite you to explore my projects and portfolio 👌🏽
 
 ### 🌐 My Websites:
 - 🌐 [Mantrix](https://mantrix.netlify.app/)
